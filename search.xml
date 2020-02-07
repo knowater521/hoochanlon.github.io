@@ -395,7 +395,7 @@
   <entry>
     <title><![CDATA[hexo搭建next主题]]></title>
     <url>%2Fnote%2F2018%2F02-25%2F13e45bd.html</url>
-    <content type="text"><![CDATA[入门前提 git安装 配置SSH说明 Hexo快速入门 hexo安装 hexo部署 hexo主题安装 Permission denied (publickey)问题 git push输入密码的问题 NexT轻松上手 next主题配置 next第三方服务 next项目wiki 备份 Hexo备份并推送到Github]]></content>
+    <content type="text"><![CDATA[入门前提 git安装 配置SSH说明 Hexo快速入门 hexo安装 hexo部署 hexo主题安装 Permission denied (publickey)问题 git push输入密码的问题 hexo-server sass binding.node下载失败(.npmrc设置部分) NexT轻松上手 next主题配置 next第三方服务 next项目wiki 备份 Hexo备份并推送到Github]]></content>
       <categories>
         <category>博客搭建过程</category>
       </categories>
