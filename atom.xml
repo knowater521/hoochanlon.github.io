@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hoo.C.lon</title>
+  
+  <subtitle>相对于QQ空间，这也许稍封闭更简致</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://hoochanlon.github.io/"/>
+  <updated>2020-02-07T05:25:25.000Z</updated>
+  <id>https://hoochanlon.github.io/</id>
+  
+  <author>
+    <name>Hoo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020.2.5 周三 🌨</title>
+    <link href="https://hoochanlon.github.io/note/2020/02-05/e63bd36e.html"/>
+    <id>https://hoochanlon.github.io/note/2020/02-05/e63bd36e.html</id>
+    <published>2020-02-05T13:58:48.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>更改ID重配置及调试了日记站点各项参数，页面测试效果还行。但还发现以前没注意到问题，变更ID也会导致站点文章阅读次数、浏览时长、网站访问统计重置，3k多访问量没了。前回大概有2k多左右，估算两回应有6k访问量左右，由于我采用的算法是浏览器重启进入站点算一次，再除以700来天，差不多月均100出头的站点访问量左右样子，和几月前看谷歌统计的情况差不多。</p><p>最后也在与他人合作的repo将旧维护用户名替换成新用户名，顺带也完成了简历页面编写与内容写作。晚上听个响，想点什么就写什么，通宵到凌晨的记录就这样了。</p>]]></content>
+    
+    <summary type="html">
+    
+      今天三件事：变更GitHub id向合作repo发布公告，生产资料迁移，测试代码页面效果。
+    
+    </summary>
+    
+      <category term="日记" scheme="https://hoochanlon.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2020.1.16 周四 🌤</title>
+    <link href="https://hoochanlon.github.io/note/2020/01-16/ec38864b.html"/>
+    <id>https://hoochanlon.github.io/note/2020/01-16/ec38864b.html</id>
+    <published>2020-01-16T13:08:05.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p> 同事走了很多，进来的也多。不管怎么说，他们处于离职期间都把事情交接的很到位，在我遇到问题时，他们及时电话联系我关于问题的解决方案。倒是想起几月前，离职的同事最后一台加班完成了标装，做好了最后一班岗。还有一次是元平特殊学校的交接，印象也挺深的，处理问题的流程及技巧，也是一无保留的交给了我，教导我在老师面前也要有自信和底气，不要太过拘束。</p>]]></content>
+    
+    <summary type="html">
+    
+      同事走了很多，进来的也多。
+    
+    </summary>
+    
+      <category term="日记" scheme="https://hoochanlon.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>总行标装协调问题</title>
+    <link href="https://hoochanlon.github.io/note/2019/12-18/e9efdf76.html"/>
+    <id>https://hoochanlon.github.io/note/2019/12-18/e9efdf76.html</id>
+    <published>2019-12-18T13:07:11.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>19年的末期事情确实有些多了，不过今天的事情，我发现如今做事与过去做事有些很大的不同：</p><ul><li>过去我是为了完成某件事而完成</li><li>潜移默化的做好事情</li></ul><p>潜移默化也许是大公司流程规范所致，回想起来确实，是从被动转主动的过程：</p><p>需求一次次的变更，分行之间的要求又是各有差异，具体细节又有微小而容易忽视的地方，忙乱时或是放松时，老是不走心的出错，做过很多费时费力的无用功，为此挨过不少批评也降过薪；从此，“被迫”也不得不与客户核对并确认需求，平安的需求虽然很有条理，但因各行之间的需求差异，规则变更频繁，始终很难制定一个通用的方案。因此，也是常常去做确认需求执行的作业。</p><p>受理工单负责总行标装期间，疏忽的地方：</p><ul><li>只是向协助同事介绍了完成作业的步骤，完全没去说明易导致流程出错的地方</li><li>没有说明完成作业的重要性，以及导致出错的引发一系列连续性问题</li><li>没注意协助同事的行事风格在哪种情景下，作业时会出现跳出说明之外操作隐患</li></ul><p>平安方面内部也出了些状况，负责各分行与当前分行运营主管出现了方案争议。在跟我们销售（职位级别高）反馈时，他对我表明以下要点：</p><ul><li>变更最好留下记录的文件（纸、签字、聊天记录），防止不承认的万一</li><li>出现不合理的需求，可以反馈给他，由他出面协调</li></ul><p>之所以为客户经理，不只是面对客户进行对外销售那么单一，还应关注因客户存在某些的不合理规划导致售后出现的一些问题，针对这些问题提出异议进行妥善协商。</p>]]></content>
+    
+    <summary type="html">
+    
+      标装是一个项目
+    
+    </summary>
+    
+      <category term="工作记录" scheme="https://hoochanlon.github.io/categories/%E5%B7%A5%E4%BD%9C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>深圳大学机房永恒之蓝感染事件</title>
+    <link href="https://hoochanlon.github.io/note/2019/12-14/6c7f810c.html"/>
+    <id>https://hoochanlon.github.io/note/2019/12-14/6c7f810c.html</id>
+    <published>2019-12-14T08:39:39.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<body style="user-select:none"><p>一开始销售与戴尔厂家是说有多很多台蓝屏，我的潜意识也隐约觉得有病毒吧，转念一想但现在中病毒也太低了，基本不可能。一直从解决蓝屏上入手了。查看过0x00000007E的代码，确实有中毒的可能，还有一部分是软硬件配置不当产生的兼容问题，此时我还是更为确定是后者，始终不愿相信前者，尽管我有了这直觉…</p><p>戴尔厂家向老师了解情况，据老师介绍说从最开始的几台蓝屏到机房整体性的随机蓝屏，介绍之前，从上午一直到下午，我都是还在以解决大众化的蓝屏方案进行配置，但也发现一个问题，系统会自动更改了我之前设置过的注册表，发现这配置不可行，但我还是不甘心又继续这思路找寻其他方案但也还未解决，深大这边的网络老师、网络专员也没查出所以然来…因为这件事，当晚，我搜寻到病毒运行机制、种类查阅了大概并做了存页。</p><blockquote><p>图片摘自 <a href="https://www.northsoar.com/News/detial/206" target="_blank" rel="noopener">WannaMine4.0 警惕感染</a></p></blockquote><p><img src="https://i.postimg.cc/sxbSmMnq/1553131272718754.jpg" alt></p><p>经过防火墙检测（还是企业级的杀软好使….）发现我们在并未共享文件情况下却存在共享文件的带宽，远高于传输通信流量的异常。很明显是在分发文件了，当我询问360厂商是否能找到源主机，得到的回答是病毒是从互联网传播过来的，我已经懂了。也就是说病毒类似于去中心化的网络分发，可以说目前面对的每一台都是母体。</p><p><img src="https://i.postimg.cc/ZnXtrsn8/IMG-20191213-113422.jpg" style="zoom:30%"></p><p>共同确认为永恒之蓝后，从微软官网中查询到相应补丁下载安装修复了这类问题，跟360厂商也交流了后续意见：</p><ul><li>选择封锁端口，安装最新杀软更新病毒库</li></ul><p>但如果做了这选项，我们将面临以下问题：</p><ul><li>师生网络共享文件成阻碍，需要额外的共享软件才能正常作业</li><li>机房的保护系统又会将更新的杀软重置</li><li>解除的话，但这么多师生操作又会影响机房缺省的配置，时时跟进工作量也太大，这不现实</li></ul><p>不过我仍很不死心（死脑筋）又用两台机器做测试（我的蓝屏处理方案）与打了永恒之蓝补丁做了对比，结果如图</p><p><img src="https://i.postimg.cc/T1WSj1fH/IMG-20191213-120458.jpg" style="zoom:30%"></p><p>买了瓶水然后继续工作，发现老师对我眼神不太对，所以才察觉到大家和我一样，口干舌燥了…现在想起来，当时应该请他们一瓶水的…在这样的氛围下，我也应该要考虑到大家是不是和我一样感同身受，可是我没有，只顾着我自己去了…处理完这些事情向老师交代后，又像往常一样，学生们可以正常上课了。</p><p><img src="https://i.postimg.cc/rFDfBBkq/IMG-20191213-135647.jpg" style="zoom:30%"></p><p>在解决完问题后，我们也与杨方老师、深大杨宇侨交流此次事件前后，原来是爆发永恒之蓝的那段时间，抱着侥幸心理而大意了，但我们都没想到病毒就发生在我们眼前。当然，我也懂侥幸的要因之一是没深入认识影子系统对防病毒的不足。结合网上查询到的资料及<a href="https://bbs.kafan.cn/thread-1778185-1-1.html" target="_blank" rel="noopener">卡饭-影子系统评测（加入了EXE感染的测试）</a>，我推测还原系统被攻破的原因：</p><p>影子系统并不会真正把整个系统还原（影子系统还原比标装镜像还原的速度快太多），病毒伪装成影子系统并不会还原的内部文件，自带不通知的执行语句（编程确实可以这么写的）完成整个暗箱破坏流程。</p><p><img src="https://i.postimg.cc/tChrbdVv/IMG-20191212-160800.jpg" style="zoom:30%"></p><p>今天回想起来，在网上查询下，看来这类端口微软并未给出GUI控制，而是在注册表自行更改成其他端口传输，为什么之前不在百度确认一下呢？他仅是说默认端口改不了，而我知道能改（用软件），为什么把注册表给忘了？只是做到了把问题解决了，而后续就这样凑合了，有点失望。</p><p>深大给了我很多意料之外，没想到内部机房安全这么脆弱，综合布线、网络防环、负载优化上…一团糟…与360交哥在讨论安全话题也聊过，病毒攻击linux，个人使用方面太小众了，企业又都具有一定安全策略（win server自然也有）。经过这次病毒事件，休息了一段时间也想了一小会，我也懂了当时心中一直未解之谜：为什么大家都知道安卓是趋势，而诺基亚还在搞自己的塞班，自己难道看不出吗？就是因为过于迷信自己经验认知而给框死了，导致不切实际地一错再三，让自己走向衰败。</p><p>通过这件事也发现了自己做事没有充分考虑环境因素风险评估不足，做事准则与流程太糟，没有详细询问事件发生前后流程，没有及时注意到量变到质变的过程，不会结合实际情况去考虑存在另一种诱因，太过于依占自己的经验了。分享见解与互助物资方面，不大懂得通人情，仅顾及了一己之心。虽然我也在及时的排查故障原因，但我潜意识也没那种失败的越多，换一种思路去做可行性尝试，离成功也就越近的积极的心态。</p><hr><p>其实这事换成大众的话早就解决了，先百度，然后有毒杀毒打补丁搞定。但是为什么这么多“专业人士”（够打脸的）搞了一天也没结果…我想应该是以下几个因素所致吧：</p><ul><li>机房默认是没联外网的，也没注意到用过时的杀软…而默认使用（所有）杀软无效</li><li>机房设备是同时间采购的，使用年限也挺久了，有可能真是得换了（注意重心转移）</li><li>大家其实面对病毒的经验不足，也有时间隔断的太久生疏所致，此次病毒确实厉害</li></ul><p>大家都没有考虑各自得出结论的特定环境，工作时也没注意同事间有无疏漏的地方，存在哪些因素使得出的结论全部颠覆。全在用平时解决方案…并没注意病毒的复发故障、扩散机群的特性。</p></body>]]></content>
+    
+    <summary type="html">
+    
+      处理集群病毒感染的一次失败总结
+    
+    </summary>
+    
+      <category term="工作记录" scheme="https://hoochanlon.github.io/categories/%E5%B7%A5%E4%BD%9C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="virus" scheme="https://hoochanlon.github.io/tags/virus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>“正确操作”出现不合常理的问题解决方案</title>
+    <link href="https://hoochanlon.github.io/note/2019/12-08/b65a1c4.html"/>
+    <id>https://hoochanlon.github.io/note/2019/12-08/b65a1c4.html</id>
+    <published>2019-12-08T08:27:43.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天在packer tracer进行DHCP+DNS服务器配置实验时，太过机械化按着实例来做，容易没有自己的主见和思想，原本知道知识原理被机械化的操作清除的一干二净。还有一点，我不知道是不是大多数人也和我一样，看较长的实例文档照着做时，老是遗漏一些重要的细节。</p><p>分析过程：</p><p>正常过目一遍时，已经可以大致了解了相关作业过程这回事，但细节原理部分未明。所以操作时如果出现异常，因之前对该操作过程原理欠缺，而无法深入思考原理细节，以致于常常带着不合常理问题进行百度，自然难以查出个结果所以然来。</p><p>优化方案：</p><ul><li>先过程过目一遍（了解所达到效果的大致过程）</li><li>再从操作过程目的（为什么这么做能达到相应效果）</li><li>既然满足了需求，又是不是最优解，它还有哪些方面的不足？</li></ul><p>同时，我也发现问题就算解决了，但不去总结（分析事情经过，再优化改进），就一直如不懂事的憨憨，下次再次出现时，也会重复着没有头绪耗时费力的处理问题。这很没有意义。</p>]]></content>
+    
+    <summary type="html">
+    
+      亡羊补牢，为时未晚！
+    
+    </summary>
+    
+      <category term="特别篇" scheme="https://hoochanlon.github.io/categories/%E7%89%B9%E5%88%AB%E7%AF%87/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>标装进不去PE系统</title>
+    <link href="https://hoochanlon.github.io/note/2019/12-05/59d2d5c6.html"/>
+    <id>https://hoochanlon.github.io/note/2019/12-05/59d2d5c6.html</id>
+    <published>2019-12-05T14:42:15.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><body style="user-select:none;"></body><br>之前进入PE载入WIN10蓝屏因为SATA默认设定为RAID，但未调配成AHCI，这次载入PE黑屏也是半天琢磨不透，倒是说：“os optimized defaults 切换为关闭状态，再将设置setting default”。居然搞定了，也跟网上x390描述问题一致，安全模式、引导方式更改也无法奏效。</p><p>对于今晚的猜想：</p><ul><li>os optimized defaults on可能不支持WIN10 PE载入启动</li><li>硬盘模式不对及兼容问题</li></ul><p>BFSVC ERR:0x57参数错误，这点上我是选择重置还原作业系统，但网络上查寻时只需修复引导即可解决，确实做了不必要的大费周章。由此想到我平常做事的两点缺陷：</p><ul><li>我在已知某一方案能解决某方面问题时，往往不会去想还有什么其他的方法能够解决（更快更好的）</li><li>解决问题上没有建立事物的内在联系，太过独立隔绝的看问题</li></ul><p>不过也想到了，首先自己先想一个方案，然后百度看看其他人的解决方案有什么不同，再做对比。写这日记的同时，顺便将常看的香港佬JAN HO网络博客的一段代码用在自己的日记上 <code>user-select:none;</code>。</p><p>12.6 更新：联想将BIOS引导PE方式设置了setting default按钮，好吧答案已找到，<a href="http://www.tudoupe.com/help/szjc/20165135.html" target="_blank" rel="noopener">[BIOS设置]OS Optimized Defaults怎么设置</a>。</p>]]></content>
+    
+    <summary type="html">
+    
+      出现在PE环境作业的黑屏与参数错误所引发的思考
+    
+    </summary>
+    
+      <category term="零散笔记" scheme="https://hoochanlon.github.io/categories/%E9%9B%B6%E6%95%A3%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019.12.3 周二 🌤</title>
+    <link href="https://hoochanlon.github.io/note/2019/12-03/204015b8.html"/>
+    <id>https://hoochanlon.github.io/note/2019/12-03/204015b8.html</id>
+    <published>2019-12-03T14:22:42.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>小肚子太多脂肪，总曾以为是每周撮一顿高热量的鸡鸭鱼肉大餐的结果，但经过朋友的点醒是每天晚上不断吃零食。</p><p>有时候自己在意事物发展的某一点，而直接认定只有这点才是关键且唯一的因素，但实际上往往大相径庭。有时候甚至直接忽略或是无视掉许许多多的明显且关键信息。</p>]]></content>
+    
+    <summary type="html">
+    
+      每周撮一顿的热量远比每天晚上在吃零食少的多。
+    
+    </summary>
+    
+      <category term="日记" scheme="https://hoochanlon.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019.12.2 周一 🌤</title>
+    <link href="https://hoochanlon.github.io/note/2019/12-02/1d8b1d6f.html"/>
+    <id>https://hoochanlon.github.io/note/2019/12-02/1d8b1d6f.html</id>
+    <published>2019-12-02T11:26:56.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>在不经意正常的核对过程中，序列出现不一致，这个时候才意识到我没有将校验操作说到位（有些细节，我默认他是知道的，可实际情况并不是这样），但并没有向我的协助说明，而是默想在心。不过协助很优秀，没有刻意隐瞒而是直接说出自己流程的大意，避免了后续的隐患。</p><p>在直接交付工作站系统给实际需求人后，却没有走流程，先在资产登记上过目。就外箱序列标识扫码入库来说，仅是交代表面行为不能丢弃外箱，远没有交代流程所来的深刻，会知要义，也能提高责任意识。</p><p>下班回家鸭血粉丝因搬迁没吃着了，吃了一份并不值得的杨国福麻辣烫，第一次是南京，那时27-28左右的杨国富麻辣烫让我吃出48-49元的味千拉面的味道，可是现在感觉杨国福麻辣烫不管怎样似乎都是一个味，味道是还不错，但这个似乎是重复单一的。</p>]]></content>
+    
+    <summary type="html">
+    
+      今日的工作与日常记录，流程与美食。
+    
+    </summary>
+    
+      <category term="日记" scheme="https://hoochanlon.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>平安总行结果汇报的问题</title>
+    <link href="https://hoochanlon.github.io/note/2019/11-27/348e5072.html"/>
+    <id>https://hoochanlon.github.io/note/2019/11-27/348e5072.html</id>
+    <published>2019-11-27T12:36:20.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>算是运气，因为大剧院装机的负责人周某汇报对象是谢xx，而我正好又有他的联系方式。所以要点的需求核对就直接跟他说了。但也忽略了，一个重要的细节，这点也是同事跟我说的，让我想到关键点：</p><ul><li>当前负责人的汇报对象的需求双方存在差异时，必须转达他的汇报对象意见与他进行核对共同确认</li></ul><p>这也体现了对他甲方职务的存在的相应尊重，避免了客观上不利于我方的争执风险。</p><p>这次有失误的地方：</p><ul><li>我没有让同事产生放心凝聚感，主要在于没有更积极承担更多责任</li><li>关心；没注意到与协助同事谈及他的家长里短，做过的事情记录优缺点</li><li>没有向协助同事谈及完成工作的重点事项</li></ul><p>在零散的装置各种软体，需要人工一步步干预，但这样无法集中注意力，这是从同事装机遗忘部分要求发现的。自动化除了轻松，还让人有了时间，确认、完善工作，也可放心的去关注到其他要事上。</p>]]></content>
+    
+    <summary type="html">
+    
+      平安标装，已核对并确认了需求。
+    
+    </summary>
+    
+      <category term="工作记录" scheme="https://hoochanlon.github.io/categories/%E5%B7%A5%E4%BD%9C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019.11.22 周五 ☀</title>
+    <link href="https://hoochanlon.github.io/note/2019/11-22/225ec9d7.html"/>
+    <id>https://hoochanlon.github.io/note/2019/11-22/225ec9d7.html</id>
+    <published>2019-11-22T13:38:48.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="https://code.jquery.com/jquery-3.3.1.min.js""></script> <div id="security"> <div class="input-container"> <input type="password" class="form-control" id="pass" placeholder=" Please enter the password to read. " /> <label for="pass"> Please enter the password to read. </label> <div class="bottom-line"></div> </div> </div> <div id="encrypt-blog" style="display:none"> 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 </div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      犯错的再总结，以及发现自己的惰性造成工作能力的低下。
+    
+    </summary>
+    
+      <category term="特别篇" scheme="https://hoochanlon.github.io/categories/%E7%89%B9%E5%88%AB%E7%AF%87/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>0xc000014c启动视窗界面失败</title>
+    <link href="https://hoochanlon.github.io/note/2019/11-21/de83edc5.html"/>
+    <id>https://hoochanlon.github.io/note/2019/11-21/de83edc5.html</id>
+    <published>2019-11-21T14:36:43.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>在使用实验主机时，进入PE因删除挂载硬盘文件不完全，而直接强制硬件断电重启，造成0xc000014c启动视窗界面失败，由于系统内部一致未解决冲突（系统文件不一致性，执行结果与系统内核配置记录产生冲突），选择安全模式或正常启动也一直不断循环报错。</p><p>猜想：</p><ul><li>删除文件-&gt;内核记录删除操作结果-&gt;突然断电-&gt;删除操作中止</li><li>删除中止（并未完成删除操作）-&gt;记录删除操作结果认为是已完成删除的（由于强制断电，而不是正常程序中止的误判）</li></ul><p>由此造成的数据的不一致，导致系统无法处理异常而崩溃</p><p>参考：</p><ul><li><a href="https://bbs.archlinuxcn.org/viewtopic.php?pid=35049" target="_blank" rel="noopener">archlinux-(已解决)挂载第二硬盘到/home/user/HDD目录，不卸载，直接关机，会对对系统/硬盘产生不好的影响么？</a></li><li><a href="https://xw.qq.com/cmsid/20190630A0IRJ400" target="_blank" rel="noopener">蓝点网-微软从去年开始已经停止为Windows 10系统自动备份所有注册表项目</a></li></ul><p>解决：</p><p>将之前的配置记录覆盖掉当前的配置记录来保持系统文件数据的一致性。</p><p><code>copy C:\windows\system32\config\RegBack\* C:\windows\system32\config</code></p><ul><li><a href="https://jingyan.baidu.com/article/20b68a88f172be796cec6290.html" target="_blank" rel="noopener">如何修复系统注册表文件丢失或损坏的问题</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      作为不必要的重置作业系统的总结
+    
+    </summary>
+    
+      <category term="零散笔记" scheme="https://hoochanlon.github.io/categories/%E9%9B%B6%E6%95%A3%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="3221225804" scheme="https://hoochanlon.github.io/tags/3221225804/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019.11.19 周二 🌤</title>
+    <link href="https://hoochanlon.github.io/note/2019/11-19/5be773ac.html"/>
+    <id>https://hoochanlon.github.io/note/2019/11-19/5be773ac.html</id>
+    <published>2019-11-19T12:26:53.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>在接到一份关于“客户判断系统开启不来，判断是硬盘故障，确认是否可修复”的工单，赶到客户所在地，电话联系两次客户主管未果，在与前台说明来意后，又共同确认正好是前台的机器出现故障。</p><p>由于正好是临时接到的工单，而手头又没有工具，于是找客户借了工具打开了机箱。但，就在打开机箱抬放支架的时候，由于不知情机箱内部排线过短造成抬起时出现硬盘塑料断裂。</p><p>然后再将塑料接入接口针脚结合过程中，由于工单明确标注是硬盘的问题（实际上是内存条的问题），加之更关心是硬盘的接合出现故障，造成的开机黑屏无反应，导致误判是硬盘的故障，加上自己未注意到断裂声响，还有机箱存在维修过的痕迹，再次加深犯错误以为是客户内部处理不当，导致硬盘结合问题而造成开机无显示。</p><p>之后跟前台说明前因后果，让前台转达给客户主管，仅是说需要更换硬盘，也没说后续处理，于是就回公司。接下来，客户投诉拆机也没通知就跑了（这让我有苦难言），于是需要换人上门处理。</p><p>但这个工单是由销售部门经理高管负责，对这件事情额外重视，因在站在这个高管的角度：</p><ul><li>由于员工本职工作及服务态度很差，会引发客户不满（主观态度考量）</li><li>由于客户本身并未造成内部损坏，而我的误判引发的诚信问题（客观事实评判）</li><li>由于定制公司业务及洽谈合作客户领导，整体只关心结果（认为做好事情本身，就是无条件应该的）</li><li>部门间的高管也存在利益冲突点，给个交代与说法</li></ul><p>综上这两点，可能会存在引发后续合作（来钱）的中止，所以我记过应该是肯定的，甚至有可能被开除，因这件事处理不当，而得罪到主管。</p><p>站在我的角度：</p><ul><li>临时性的简单确认工单，并未引起足够的重视（不知情高管直派工单）</li><li>月薪过低没有提成，积极性过低，只是为了完成任务，并没有形成做事情的大局观（把事情做到好）</li><li>排查错误的不到位，直接无视了借助百度找寻资料的意义（搜寻信息来源的可靠度）</li></ul><p>经过这件事情，面对未解决的逃避（恐慌），敷衍所造成的更大恶果比坦率承认要大得多。做好一件事情必须要有全局把控的大局观。</p>]]></content>
+    
+    <summary type="html">
+    
+      工作疏忽，而造成的过失
+    
+    </summary>
+    
+      <category term="工作记录" scheme="https://hoochanlon.github.io/categories/%E5%B7%A5%E4%BD%9C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019.10.28 周一 阴</title>
+    <link href="https://hoochanlon.github.io/note/2019/10-28/55afc0d8.html"/>
+    <id>https://hoochanlon.github.io/note/2019/10-28/55afc0d8.html</id>
+    <published>2019-10-28T12:46:49.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>当然了，我基本上也就处于观察状态，看着以嘲解闷不费脑子打发时间的；我倒是注意了一个技校生，他每天发说说基本上就是跑步，不时也会发些观影感受，安利些书籍、公众号。</p><p>我靠，每天都发也是算的上一个人才。说到这里，想起如果我像他一样，每天下班做仰卧起坐，说不定还能减去看上去很别扭的将军肚，倒算是很好的启发。</p><p>这家伙到群里聊的基本上都是找对象的话题，但看了这么多条关于跑步记录的说说，打消了让我觉得他跑步是为了勾搭妹子。可能持续做着假的也成了真（想法纯粹了），自己都信了并继续保持下去了。</p><p>看过他不时推荐一些书，令我质疑推荐书只是摘抄网上的对此的总结（书评），不过既然能做到这些点也真是优秀。感觉不太像我印象中技校生的所为，毕竟我也是技校生出身；<strong>不过也不应该有这种感觉，不该质疑这种优秀，我也懂了默默加油。</strong>之所以这么说，毕竟我自己也是感同身受，能与上交大硕士合作项目，再看下自己学历及职业说出去，其实很多人基本上也不信。</p>]]></content>
+    
+    <summary type="html">
+    
+      看他人发的朋友圈和说说，多么像以前的自己
+    
+    </summary>
+    
+      <category term="日记" scheme="https://hoochanlon.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>vuepress与docsify</title>
+    <link href="https://hoochanlon.github.io/note/2019/10-06/aea74cf7.html"/>
+    <id>https://hoochanlon.github.io/note/2019/10-06/aea74cf7.html</id>
+    <published>2019-10-06T00:23:14.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>摘自 <a href="https://v1.vuepress.vuejs.org/zh/guide/#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%98%AF" target="_blank" rel="noopener">vupress.org-为什么不是？</a></p></blockquote><p><img src="https://i.postimg.cc/W1jnHYJp/00-05.png" alt></p><p>docsify只在完全的运行时驱动，这意味着对搜索引擎SEO是相当不友好（搜索引擎难以爬取，内容也就不会显示到谷歌搜索页面），这也许是《这本书》少有人知的原因。如果考虑到seo优化，配置、插件的复杂度，以及生成页面部署等操作，这就不算什么了，vuepress是很不错的选择。</p>]]></content>
+    
+    <summary type="html">
+    
+      《这本书》当时要是选择vuepress，可能传播效果要广得多，docsify使用起来也不差，懒得改了...
+    
+    </summary>
+    
+      <category term="零散笔记" scheme="https://hoochanlon.github.io/categories/%E9%9B%B6%E6%95%A3%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019.10.3 周四 晴</title>
+    <link href="https://hoochanlon.github.io/note/2019/10-03/1f20e935.html"/>
+    <id>https://hoochanlon.github.io/note/2019/10-03/1f20e935.html</id>
+    <published>2019-10-02T17:28:59.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.postimg.cc/B60QrQgY/2019-10-03-00-43-48.png" style="zoom:50%"><br><img src="https://i.postimg.cc/0N3Hjb3n/2019-10-03-00-40-14.png" style="zoom:50%"></p>]]></content>
+    
+    <summary type="html">
+    
+      测试与反馈
+    
+    </summary>
+    
+      <category term="日记" scheme="https://hoochanlon.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于Github克隆及下载过慢的解决方案</title>
+    <link href="https://hoochanlon.github.io/note/2019/10-01/4ee4554a.html"/>
+    <id>https://hoochanlon.github.io/note/2019/10-01/4ee4554a.html</id>
+    <published>2019-09-30T17:01:43.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>说在前面：这些问题都可以使用VPN直接解决，但由于红朝特殊环境，找到合适性价比的VPN又是一件比较困难的事，更不用说免费的了，而且免费的基本都赶尽杀绝了…</strong></p><h2 id="Github-下载过慢处理（releases）"><a href="#Github-下载过慢处理（releases）" class="headerlink" title="Github 下载过慢处理（releases）"></a>Github 下载过慢处理（releases）</h2><p>关于releases，它可以是压缩包如zip、7z等格式；也可以是软体程式，比方说：exe、msi</p><ol><li><p>打开<a href="https://www.ipaddress.com/" target="_blank" rel="noopener">www.ipaddress.com</a>，查询以下链接的DNS解析地址 </p> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">github.com </span><br><span class="line">assets-cdn.github.com </span><br><span class="line">github.global.ssl.fastly.net</span><br><span class="line"></span><br><span class="line"># 下载链接 raw.githubusercontent.com 的实际地址</span><br><span class="line">codeload.github.com</span><br></pre></td></tr></table></figure></li><li><p>记录下查询到的IP地址，并添加进入<code>C:\Windows\System32\drivers\etc\Hosts</code>文件</p></li><li>运行<code>cmd</code>输入<code>ipconfig /flushdns</code> 指令刷新系统DNS</li></ol><h2 id="Git-Clone-克隆过慢改进"><a href="#Git-Clone-克隆过慢改进" class="headerlink" title="Git Clone 克隆过慢改进"></a>Git Clone 克隆过慢改进</h2><h3 id="浅克隆"><a href="#浅克隆" class="headerlink" title="浅克隆"></a>浅克隆</h3><p>git clone 默认会下载项目的完整历史版本，若只关心最新的代码，而不关心之前的历史，可以使用浅复制功能：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git clone --depth=1  https://github.com/你的用户名/你的repo.git</span><br></pre></td></tr></table></figure><p><code>--depth=1</code> 表示只下载最近一次的版本，使用浅复制可以大大减少下载的数据量，这样即使在红色网络环境下，也可以快速的获得代码；若之后想获取完整历史信息，可以使用指令 <code>$ git fetch --unshallow</code></p><h3 id="代理方案"><a href="#代理方案" class="headerlink" title="代理方案"></a>代理方案</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># 代理设置</span><br><span class="line">git config --global http.proxy &apos;socks5://127.0.0.1:1080&apos;</span><br><span class="line">git config --global https.proxy &apos;socks5://127.0.0.1:1080&apos;</span><br><span class="line"># 取消代理</span><br><span class="line">git config --global --unset https.proxy &apos;socks5://127.0.0.1:1080&apos;</span><br><span class="line">git config --global --unset http.proxy &apos;socks5://127.0.0.1:1080&apos;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      如题
+    
+    </summary>
+    
+      <category term="零散笔记" scheme="https://hoochanlon.github.io/categories/%E9%9B%B6%E6%95%A3%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="git" scheme="https://hoochanlon.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019.9.9 晴转雨（阶段总结）</title>
+    <link href="https://hoochanlon.github.io/note/2019/09-09/f4280f9d.html"/>
+    <id>https://hoochanlon.github.io/note/2019/09-09/f4280f9d.html</id>
+    <published>2019-09-09T14:23:16.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="装机激活"><a href="#装机激活" class="headerlink" title="装机激活"></a>装机激活</h3><p>由于需求不明了及没有问清装配的具体细节，并不需要激活系统，而我却做了激活操作；同事说未知驱动需要联网激活，于是想了一下决定这样向组长解释：</p><p>嗯，这是我的疏忽；由于同事说未知驱动需要联网激活，而我接入网线激活了系统，没完全掌握装机内容，以后注意。</p><p>（对于时常需要汇报的领导，先道歉比一开始推责任要好很多，承认错误-&gt;说明原因-&gt;改进）</p><h3 id="地铁回家路上"><a href="#地铁回家路上" class="headerlink" title="地铁回家路上"></a>地铁回家路上</h3><p>买的水果与淘宝的奥利奥的花费，容易超出一天的支出；不过利用这些水果、奥利奥作为一天的用餐，应该会节省很多，至少我觉得。</p><p>我的个人成果：</p><ul><li>分析日常开销及优化日常开支</li><li>降低领导对我的工作疏忽</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      一天回顾的总结
+    
+    </summary>
+    
+      <category term="日记" scheme="https://hoochanlon.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019.9.4 周三 雨</title>
+    <link href="https://hoochanlon.github.io/note/2019/09-04/46018433.html"/>
+    <id>https://hoochanlon.github.io/note/2019/09-04/46018433.html</id>
+    <published>2019-09-04T14:45:45.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>对比以前(2019.8)：</p><ul><li>我善于管理个人的日常开销 （小狗）</li><li>负责、不拖沓、善于花时间研究问题 （硬件加速）</li></ul><p><img src="https://i.postimg.cc/pXhdbWXg/Snipaste-2019-08-29-22-43-52.png" alt></p><p>今天，又学到一招：</p><p>大雨、路程远导致超时旷工，借用外出已结束但没及时提醒的空子由： 请假-&gt;因公外出；保住了3.6k一定的月工资。</p>]]></content>
+    
+    <summary type="html">
+    
+      当写日记目的性，越来越强时，渐渐地发现了其作用
+    
+    </summary>
+    
+      <category term="日记" scheme="https://hoochanlon.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019 8 31 周六 晴</title>
+    <link href="https://hoochanlon.github.io/note/2019/08-31/27cf426b.html"/>
+    <id>https://hoochanlon.github.io/note/2019/08-31/27cf426b.html</id>
+    <published>2019-08-31T03:18:04.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>一个快餐店与我在肠粉店的自我饱腹感无关价格，又一次影响了我。</p><p>快餐店饭菜打饭20以上，较贵；肠粉店：一碗10块钱的猪杂汤，就可以吃饱；可是，我在能吃饱的情况下，为了爽而再点了份小笼包；虽然没有超过二十块，但这额外的开支实属不应该。</p><p><img src="https://i.postimg.cc/rmzZS3Zx/IMG-20190831-105240.jpg" alt></p><p>昨天的透支，想着买了一瓶醋喝，明天的开支，我节省一点就是了，然而并不会…该花的还是花去了，我只会想着（已忽略昨天的透支额度）按着今天的预定开销来…</p><ul><li>能够提前思考的条件：<ul><li>需要提前一天的准备</li><li>在行动时，时刻翻看todo 提醒自己</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      正常的傻瓜，一直都是，想改变
+    
+    </summary>
+    
+      <category term="日记" scheme="https://hoochanlon.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019 8 29 周四 晴</title>
+    <link href="https://hoochanlon.github.io/note/2019/08-29/ebe8c3dd.html"/>
+    <id>https://hoochanlon.github.io/note/2019/08-29/ebe8c3dd.html</id>
+    <published>2019-08-29T11:12:03.000Z</published>
+    <updated>2020-02-07T05:25:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>狗共养的条子，罚了50块钱，妈的个逼，真的是喂了个畜牲🐖。好想一拳给这个杂种，但是真的打不过、二是挥拳打了这条狗真是袭警。</p><p>为什么我对狗共充满愤怒：</p><ul><li>话语的不信任</li><li>等级的不平等</li><li>言论及访问资源的限制</li></ul><p>这种愤怒太容易使我情绪化（很难顾及后果），产生非理智的行为。回到会议室休息，躺在座椅上夹杂着愤怒想了很久，但还是想到《教父》中那一段话：不要憎恨你的敌人，那样会影响你的判断力。</p><p>这红灯确实是忽略众人，无视条子走过的；憎恨让我丧失所作所为的正确性及合理性选择。</p><p>因此，我决定：</p><ul><li>每次提醒自己</li><li>不要急，慢下来，多想想</li><li>每次出发前留给自己思考的时间（即使效率慢，时间长）</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      我太容易受情绪引导了，但要每次提前留给自己时间思考
+    
+    </summary>
+    
+      <category term="日记" scheme="https://hoochanlon.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+</feed>
