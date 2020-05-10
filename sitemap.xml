@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hoochanlon.github.io/note/2020/05-10/f5624620.html</loc>
-    
-    <lastmod>2020-05-10T13:09:57.871Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://hoochanlon.github.io/note/2020/05-08/5c1b8076.html</loc>
     
     <lastmod>2020-05-07T16:56:11.269Z</lastmod>
@@ -219,14 +212,14 @@
   </url>
   
   <url>
-    <loc>https://hoochanlon.github.io/tags/index.html</loc>
+    <loc>https://hoochanlon.github.io/note/2019/08-25/b111cd7b.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://hoochanlon.github.io/note/2020/02-05/e63bd36e.html</loc>
+    <loc>https://hoochanlon.github.io/tags/index.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
     
@@ -254,7 +247,7 @@
   </url>
   
   <url>
-    <loc>https://hoochanlon.github.io/note/2019/05-28/54deae33.html</loc>
+    <loc>https://hoochanlon.github.io/note/2020/02-05/e63bd36e.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
     
@@ -394,13 +387,6 @@
   </url>
   
   <url>
-    <loc>https://hoochanlon.github.io/archives/index.html</loc>
-    
-    <lastmod>2020-02-07T05:25:25.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://hoochanlon.github.io/ToDoList/index.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
@@ -415,14 +401,14 @@
   </url>
   
   <url>
-    <loc>https://hoochanlon.github.io/categories/index.html</loc>
+    <loc>https://hoochanlon.github.io/archives/index.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://hoochanlon.github.io/photo/index.html</loc>
+    <loc>https://hoochanlon.github.io/categories/index.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
     
@@ -436,7 +422,14 @@
   </url>
   
   <url>
-    <loc>https://hoochanlon.github.io/note/2019/08-25/b111cd7b.html</loc>
+    <loc>https://hoochanlon.github.io/photo/index.html</loc>
+    
+    <lastmod>2020-02-07T05:25:25.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hoochanlon.github.io/note/2019/05-28/54deae33.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
     
