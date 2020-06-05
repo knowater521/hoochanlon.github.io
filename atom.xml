@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hoochanlon.github.io/"/>
-  <updated>2020-05-20T03:28:16.506Z</updated>
+  <updated>2020-06-05T20:20:28.496Z</updated>
   <id>https://hoochanlon.github.io/</id>
   
   <author>
@@ -17,13 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>GitHub RST与Git SSL_ERR_SYSCALL综合分析</title>
+    <link href="https://hoochanlon.github.io/note/2020/06-06/74ae1ae6.html"/>
+    <id>https://hoochanlon.github.io/note/2020/06-06/74ae1ae6.html</id>
+    <published>2020-06-05T16:53:01.000Z</published>
+    <updated>2020-06-05T20:20:28.496Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>杜绝主观情绪化因素</li><li>多方面考虑原因（多种可能）</li><li>查找及建立两者关联（共同点）</li></ul><p>主观情绪化会失去客观分析判断能力，正确率几乎忽略不计，必须杜绝主观情绪化再去分析！</p><h3 id="RST"><a href="#RST" class="headerlink" title="RST"></a>RST</h3><p>网络封锁重置、hosts IP-DNS映射指向问题</p><h3 id="SSL-ERR-SYSCALL"><a href="#SSL-ERR-SYSCALL" class="headerlink" title="SSL_ERR_SYSCALL"></a>SSL_ERR_SYSCALL</h3><p>调用传输层自行设置的代理套接字，出现的无法访问的问题。可能存在代理配置或是网址有问题，网址问题则涉及到hosts映射设定内容。</p><h3 id="小插曲"><a href="#小插曲" class="headerlink" title="小插曲"></a>小插曲</h3><p>对GitHub进行ping测试，发现虽然ping不通，但还是能访问。处于网络安全的考量，应该是网站禁用了ICMP回应或者开启了ICMP过滤。</p><p>参考 <a href="https://www.cnblogs.com/kunlunmountain/p/5945756.html" target="_blank" rel="noopener">kunlunmountain-为什么有些网站PING不通但又能访问.</a></p><p>由此从ping转向curl测试，因为该工具也提供了很直观的信息。</p><p><img src="https://i.postimg.cc/brH28KhX/010.png" alt></p><h3 id="汇总"><a href="#汇总" class="headerlink" title="汇总"></a>汇总</h3><p>RST与SSL_ERR_SYSCALL有一个共同的问题：hosts IP-DNS映射</p><p>应用层的Hosts通过IP-DNS映射，网址解析被指向特定IP地址。而代理只是转达客户端这特定指向访问IP请求，并不会对IP进行路径转换。若Hosts映射IP、DNS任一方不存在，则会造成即使翻墙配置了代理也无法进行访问的情况。所以代理也被称作<a href="https://baike.baidu.com/item/%E5%BA%94%E7%94%A8%E7%BD%91%E5%85%B3/6324513" target="_blank" rel="noopener">应用网关</a>，也是有原因的。</p><p><img src="https://i.postimg.cc/SKjbkkk8/008.png" alt></p><p>由于Hosts比远程的DNS优先级高，主机最先进入Hosts查询DNS映射，只有在hosts中没查到该条访问映射才进行远程DNS服务器查询，VPN方面虽建立一条专用隧道进行外部服务器访问，但主机给到外部服务器解析的DNS映射还是错误的，所以还是会造成主机不可达，依旧无法访问。</p><p><img src="https://i.postimg.cc/fT1p9pnn/009.png" alt></p><p>有时就算进行Host设定重定向也能短时间内也正常访问站点，这与keep-alive、浏览器及系统DNS缓存有关，参考 <a href="https://www.cnblogs.com/hustskyking/p/hosts-modify.html" target="_blank" rel="noopener">小胡子哥-修改Hosts为何不生效，是DNS缓存？</a></p>]]></content>
+    
+    <summary type="html">
+    
+      如题
+    
+    </summary>
+    
+      <category term="git" scheme="https://hoochanlon.github.io/categories/git/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>重复劳动的自我修养</title>
     <link href="https://hoochanlon.github.io/note/2020/05-20/b205bbba.html"/>
     <id>https://hoochanlon.github.io/note/2020/05-20/b205bbba.html</id>
     <published>2020-05-20T01:01:55.000Z</published>
-    <updated>2020-05-20T03:28:16.506Z</updated>
+    <updated>2020-05-20T03:40:17.495Z</updated>
     
-    <content type="html"><![CDATA[<p>流水般的重复劳动，只是纯粹无脑作为资本家工作机器而已，而不是资本家眼中的人才。</p><ul><li>首先，明白自己职责；然后建立人际关系，了解生产业务逻辑</li><li>如何“以轻松的方式工作？”，如何向他人取经？</li><li>如何调动团队积极性，改进效率的提升？</li></ul><p>由于做重复简单事情，加上枯燥的环境，很容易让人麻木，产生精神疲劳。为了缓解疲劳，我打算流水工作卡点。</p><ul><li>找话题与同事讨论，并学习搭讪与应答技巧</li><li>思考领导所做的行为目的，需具备哪些理论知识<ul><li>具备哪些理论知识，可通过招聘网站岗位要求了解到</li></ul></li><li>时间卡点，让领导看到我这个时间点是干活的<ul><li>上午9上班，预热及工作1个小时</li><li>休息到10点20分，做到11.30左右</li><li>11.40回到房间，11.50提前准备下午工作</li><li>下午2点上班，延迟10分钟，再工作一小时</li><li>两次20分钟外出，3.20~4.20左右只做40分钟活</li><li>5点至十分左右，借饭卡吃饭，约5.30左右走人</li></ul></li></ul><p>之所以制定这样的计划，是因为他们团队没有固定时间作息计划，都是凭个人意愿。当然，这也给了我很大的操作空间，规划自己时间，从被动到主动。</p><hr><p>我的一些沟通不足：</p><ul><li>说话太长，不断句，让人跟不上节奏</li><li>说话不够顺畅，呃…卡住太多；想好了再回答</li><li>与异性交往，不知道怎么打开话题；试着有感而发地说多说几句吧！</li><li>临场应变较呆板，不够灵活；总结累积经验</li><li>如何把简单重复的事情，专业化的说出来（“有目的”的装逼，应对人资沟通面谈上）</li></ul><p>我必须要明确的自己的意图，如何让对方明白我再说什么，为什么这么做。</p>]]></content>
+    <content type="html"><![CDATA[<p>流水般的重复劳动，只是纯粹无脑作为资本家工作机器而已，而不是资本家眼中的人才。</p><ul><li>首先，明白自己职责；然后建立人际关系，了解生产业务逻辑</li><li>如何“以轻松的方式工作？”，如何向他人取经？</li><li>如何调动团队积极性，改进效率的提升？</li></ul><p>由于做重复简单事情，加上枯燥的环境，很容易让人麻木，产生精神疲劳。为了缓解疲劳，我打算流水工作卡点。</p><ul><li>找话题与同事讨论，并学习搭讪与应答技巧</li><li>思考领导所做的行为目的，需具备哪些理论知识<ul><li>具备哪些理论知识，可通过招聘网站岗位要求了解到</li></ul></li><li>时间卡点，让领导看到我这个时间点是干活的<ul><li>上午9上班，预热及工作1个小时</li><li>休息到10点20分，做到11.30左右</li><li>11.40回到房间，11.50提前准备下午工作</li><li>下午2点上班，延迟10分钟，再工作一小时</li><li>两次20分钟外出，3.20~4.20左右只做40分钟活</li><li>5点至十分左右，借饭卡吃饭，约5.30左右走人</li></ul></li></ul><p>之所以制定这样的计划，是因为他们团队没有固定时间作息计划，都是凭个人意愿。当然，这也给了我很大的操作空间，规划自己时间，从被动到主动。</p><hr><p>我的一些沟通不足：</p><ul><li>说话太长，不断句，让人跟不上节奏</li><li>说话不够顺畅，呃…卡住太多；想好了再回答</li><li>与异性交往，不知道怎么打开话题；试着有感而发地说多说几句吧！</li><li>临场应变较呆板，不够灵活；总结累积经验</li><li>如何把简单重复的事情，专业化的说出来（“有目的”的装逼，应对人资沟通面谈上）</li></ul><p>因此，我必须要明确的自己的意图，如何让对方明白我再说什么，为什么这么做。</p>]]></content>
     
     <summary type="html">
     
@@ -390,26 +410,6 @@
     </summary>
     
       <category term="特别篇" scheme="https://hoochanlon.github.io/categories/%E7%89%B9%E5%88%AB%E7%AF%87/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2019.12.2 周一 🌤</title>
-    <link href="https://hoochanlon.github.io/note/2019/12-02/1d8b1d6f.html"/>
-    <id>https://hoochanlon.github.io/note/2019/12-02/1d8b1d6f.html</id>
-    <published>2019-12-02T11:26:56.000Z</published>
-    <updated>2020-02-07T05:25:25.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>在不经意正常的核对过程中，序列出现不一致，这个时候才意识到我没有将校验操作说到位（有些细节，我默认他是知道的，可实际情况并不是这样），但并没有向我的协助说明，而是默想在心。不过协助很优秀，没有刻意隐瞒而是直接说出自己流程的大意，避免了后续的隐患。</p><p>在直接交付工作站系统给实际需求人后，却没有走流程，先在资产登记上过目。就外箱序列标识扫码入库来说，仅是交代表面行为不能丢弃外箱，远没有交代流程所来的深刻，会知要义，也能提高责任意识。</p><p>下班回家鸭血粉丝因搬迁没吃着了，吃了一份并不值得的杨国福麻辣烫，第一次是南京，那时27-28左右的杨国富麻辣烫让我吃出48-49元的味千拉面的味道，可是现在感觉杨国福麻辣烫不管怎样似乎都是一个味，味道是还不错，但这个似乎是重复单一的。</p>]]></content>
-    
-    <summary type="html">
-    
-      今日的工作与日常记录，流程与美食。
-    
-    </summary>
-    
-      <category term="日记" scheme="https://hoochanlon.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
   </entry>
