@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hoochanlon.github.io/note/2020/06-10/20e32cb4.html</loc>
+    
+    <lastmod>2020-06-10T02:06:55.487Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hoochanlon.github.io/note/2020/06-06/74ae1ae6.html</loc>
     
     <lastmod>2020-06-05T20:32:21.108Z</lastmod>
@@ -226,14 +233,14 @@
   </url>
   
   <url>
-    <loc>https://hoochanlon.github.io/note/2019/08-29/ebe8c3dd.html</loc>
+    <loc>https://hoochanlon.github.io/tags/index.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://hoochanlon.github.io/tags/index.html</loc>
+    <loc>https://hoochanlon.github.io/note/2019/08-26/b054da7.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
     
@@ -422,6 +429,13 @@
   </url>
   
   <url>
+    <loc>https://hoochanlon.github.io/ToDoList/index.html</loc>
+    
+    <lastmod>2020-02-07T05:25:25.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hoochanlon.github.io/archives/index.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
@@ -430,13 +444,6 @@
   
   <url>
     <loc>https://hoochanlon.github.io/categories/index.html</loc>
-    
-    <lastmod>2020-02-07T05:25:25.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hoochanlon.github.io/ToDoList/index.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
     
@@ -457,7 +464,7 @@
   </url>
   
   <url>
-    <loc>https://hoochanlon.github.io/note/2019/08-26/b054da7.html</loc>
+    <loc>https://hoochanlon.github.io/note/2019/08-29/ebe8c3dd.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
     

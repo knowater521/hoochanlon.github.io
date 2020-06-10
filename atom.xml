@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hoochanlon.github.io/"/>
-  <updated>2020-06-05T20:32:21.108Z</updated>
+  <updated>2020-06-10T02:06:55.487Z</updated>
   <id>https://hoochanlon.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>上班人满为患的准点巴士</title>
+    <link href="https://hoochanlon.github.io/note/2020/06-10/20e32cb4.html"/>
+    <id>https://hoochanlon.github.io/note/2020/06-10/20e32cb4.html</id>
+    <published>2020-06-10T01:26:13.000Z</published>
+    <updated>2020-06-10T02:06:55.487Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天错过了一趟准点上班打卡的巴士，请了个假。但由此带给我的一些思考：</p><ul><li>到达时间的早晚除了距离关系，还有发车时间及车次、站点密集度、交通是否拥堵的关系</li></ul><p>我所在的站台位置不理想，恰巧是高峰期上下班站点的中途站台，有上车无下车的那种。所以，我有必要去研究下公交路线规划，以避免因人多而挤不上公交的问题。</p><ul><li>选择早点乘坐公交</li><li>选择下车人多的站台</li><li>选择前面虽无下车，但能够上车的站台</li></ul><p>所以，现在出发…</p><p>我发现先入为主是一件可怕且自然的过程，在我的印象中，xxx怎样怎样blabla，你的见解呢？顺便再查查网上的资料，摸清楚情况再做定论。</p>]]></content>
+    
+    <summary type="html">
+    
+      说是准点，但它又不准点，昨天下雨天，今天又堵车。
+    
+    </summary>
+    
+      <category term="工作记录" scheme="https://hoochanlon.github.io/categories/%E5%B7%A5%E4%BD%9C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>GitHub RST与Git SSL_ERR_SYSCALL综合分析</title>
@@ -393,26 +413,6 @@
     
     
       <category term="virus" scheme="https://hoochanlon.github.io/tags/virus/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>“正确操作”出现不合常理的问题解决方案</title>
-    <link href="https://hoochanlon.github.io/note/2019/12-08/b65a1c4.html"/>
-    <id>https://hoochanlon.github.io/note/2019/12-08/b65a1c4.html</id>
-    <published>2019-12-08T08:27:43.000Z</published>
-    <updated>2020-02-07T05:25:25.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天在packer tracer进行DHCP+DNS服务器配置实验时，太过机械化按着实例来做，容易没有自己的主见和思想，原本知道知识原理被机械化的操作清除的一干二净。还有一点，我不知道是不是大多数人也和我一样，看较长的实例文档照着做时，老是遗漏一些重要的细节。</p><p>分析过程：</p><p>正常过目一遍时，已经可以大致了解了相关作业过程这回事，但细节原理部分未明。所以操作时如果出现异常，因之前对该操作过程原理欠缺，而无法深入思考原理细节，以致于常常带着不合常理问题进行百度，自然难以查出个结果所以然来。</p><p>优化方案：</p><ul><li>先过程过目一遍（了解所达到效果的大致过程）</li><li>再从操作过程目的（为什么这么做能达到相应效果）</li><li>既然满足了需求，又是不是最优解，它还有哪些方面的不足？</li></ul><p>同时，我也发现问题就算解决了，但不去总结（分析事情经过，再优化改进），就一直如不懂事的憨憨，下次再次出现时，也会重复着没有头绪耗时费力的处理问题。这很没有意义。</p>]]></content>
-    
-    <summary type="html">
-    
-      亡羊补牢，为时未晚！
-    
-    </summary>
-    
-      <category term="特别篇" scheme="https://hoochanlon.github.io/categories/%E7%89%B9%E5%88%AB%E7%AF%87/"/>
-    
     
   </entry>
   
