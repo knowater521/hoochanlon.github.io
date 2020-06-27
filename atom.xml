@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hoochanlon.github.io/"/>
-  <updated>2020-06-23T13:17:08.936Z</updated>
+  <updated>2020-06-27T04:19:03.522Z</updated>
   <id>https://hoochanlon.github.io/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>蛋糕式的端午</title>
+    <link href="https://hoochanlon.github.io/note/2020/06-27/389bf83c.html"/>
+    <id>https://hoochanlon.github.io/note/2020/06-27/389bf83c.html</id>
+    <published>2020-06-27T03:31:09.000Z</published>
+    <updated>2020-06-27T04:19:03.522Z</updated>
+    
+    <content type="html"><![CDATA[<script src="https://code.jquery.com/jquery-3.3.1.min.js""></script> <div id="security"> <div class="input-container"> <input type="password" class="form-control" id="pass" placeholder=" Please enter the password to read. " /> <label for="pass"> Please enter the password to read. </label> <div class="bottom-line"></div> </div> </div> <div id="encrypt-blog" style="display:none"> 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 </div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      从单纯研究技术转向研究社会
+    
+    </summary>
+    
+      <category term="特别篇" scheme="https://hoochanlon.github.io/categories/%E7%89%B9%E5%88%AB%E7%AF%87/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>2020.6.23 周二 🌤</title>
     <link href="https://hoochanlon.github.io/note/2020/06-23/cb3ce863.html"/>
     <id>https://hoochanlon.github.io/note/2020/06-23/cb3ce863.html</id>
     <published>2020-06-23T13:14:40.000Z</published>
-    <updated>2020-06-23T13:17:08.936Z</updated>
+    <updated>2020-06-23T13:17:49.907Z</updated>
     
     <content type="html"><![CDATA[<p>发生了很多事情，得到启发也很多。可都想记录下来，也被朋友点醒到：人的精力是有限的，根本不知道你在写什么…</p>]]></content>
     
@@ -390,26 +410,6 @@
     </summary>
     
       <category term="日记" scheme="https://hoochanlon.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>总行标装协调问题</title>
-    <link href="https://hoochanlon.github.io/note/2019/12-18/e9efdf76.html"/>
-    <id>https://hoochanlon.github.io/note/2019/12-18/e9efdf76.html</id>
-    <published>2019-12-18T13:07:11.000Z</published>
-    <updated>2020-02-07T05:25:25.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>19年的末期事情确实有些多了，不过今天的事情，我发现如今做事与过去做事有些很大的不同：</p><ul><li>过去我是为了完成某件事而完成</li><li>潜移默化的做好事情</li></ul><p>潜移默化也许是大公司流程规范所致，回想起来确实，是从被动转主动的过程：</p><p>需求一次次的变更，分行之间的要求又是各有差异，具体细节又有微小而容易忽视的地方，忙乱时或是放松时，老是不走心的出错，做过很多费时费力的无用功，为此挨过不少批评也降过薪；从此，“被迫”也不得不与客户核对并确认需求，平安的需求虽然很有条理，但因各行之间的需求差异，规则变更频繁，始终很难制定一个通用的方案。因此，也是常常去做确认需求执行的作业。</p><p>受理工单负责总行标装期间，疏忽的地方：</p><ul><li>只是向协助同事介绍了完成作业的步骤，完全没去说明易导致流程出错的地方</li><li>没有说明完成作业的重要性，以及导致出错的引发一系列连续性问题</li><li>没注意协助同事的行事风格在哪种情景下，作业时会出现跳出说明之外操作隐患</li></ul><p>平安方面内部也出了些状况，负责各分行与当前分行运营主管出现了方案争议。在跟我们销售（职位级别高）反馈时，他对我表明以下要点：</p><ul><li>变更最好留下记录的文件（纸、签字、聊天记录），防止不承认的万一</li><li>出现不合理的需求，可以反馈给他，由他出面协调</li></ul><p>之所以为客户经理，不只是面对客户进行对外销售那么单一，还应关注因客户存在某些的不合理规划导致售后出现的一些问题，针对这些问题提出异议进行妥善协商。</p>]]></content>
-    
-    <summary type="html">
-    
-      标装是一个项目
-    
-    </summary>
-    
-      <category term="工作记录" scheme="https://hoochanlon.github.io/categories/%E5%B7%A5%E4%BD%9C%E8%AE%B0%E5%BD%95/"/>
     
     
   </entry>
