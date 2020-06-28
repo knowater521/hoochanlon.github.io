@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hoochanlon.github.io/note/2020/06-28/e0195c1f.html</loc>
+    
+    <lastmod>2020-06-28T04:11:35.006Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hoochanlon.github.io/note/2020/06-27/389bf83c.html</loc>
     
     <lastmod>2020-06-27T04:19:03.522Z</lastmod>
@@ -240,7 +247,7 @@
   </url>
   
   <url>
-    <loc>https://hoochanlon.github.io/photo/index.html</loc>
+    <loc>https://hoochanlon.github.io/tags/index.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
     
@@ -436,6 +443,13 @@
   </url>
   
   <url>
+    <loc>https://hoochanlon.github.io/ToDoList/index.html</loc>
+    
+    <lastmod>2020-02-07T05:25:25.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hoochanlon.github.io/archives/index.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
@@ -450,14 +464,7 @@
   </url>
   
   <url>
-    <loc>https://hoochanlon.github.io/ToDoList/index.html</loc>
-    
-    <lastmod>2020-02-07T05:25:25.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hoochanlon.github.io/categories/index.html</loc>
+    <loc>https://hoochanlon.github.io/photo/index.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
     
@@ -471,7 +478,7 @@
   </url>
   
   <url>
-    <loc>https://hoochanlon.github.io/tags/index.html</loc>
+    <loc>https://hoochanlon.github.io/categories/index.html</loc>
     
     <lastmod>2020-02-07T05:25:25.000Z</lastmod>
     
